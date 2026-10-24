@@ -1,0 +1,49 @@
+{
+  "scope": "Complete nine-question French and English static website. French verbatim from ODT. Exact user-supplied captions. Geist, upright cover, original branding, no numbered section labels. Not published.",
+  "youtube": [
+    [
+      "Steve Reich — Music for 18 Musicians",
+      "1oOmUi4HGt0"
+    ],
+    [
+      "Skankfunk — Overkooled",
+      "SpwJ3UnV-MM"
+    ],
+    [
+      "Fat Jon — Ask",
+      "emyQWsHDTaY"
+    ],
+    [
+      "Boards of Canada — Roygbiv",
+      "SM4tQcUt_mQ"
+    ],
+    [
+      "DJ Rashad — Double Cup (feat. DJ Spinn)",
+      "qc2CZDezGHQ"
+    ],
+    [
+      "Kerri Chandler & Roy Ayers — Good Vibrations (Kerri’s Mad Mix)",
+      "lewbH3jjLBA"
+    ],
+    [
+      "Rochelle Jordan — LOVE U GOOD",
+      "j0iZaiu_7jA"
+    ],
+    [
+      "Machinedrum — Spectrum Sequence",
+      "ju0TCWpeWww"
+    ],
+    [
+      "nextdimensional — warmup",
+      "sTXLCTBh0Bk"
+    ]
+  ],
+  "bandcamp_fallback": {
+    "track": "monte booker — western cape",
+    "url": "https://montebooker.bandcamp.com/track/western-cape",
+    "track_id": 2867728166,
+    "reason": "No matching YouTube upload verified; original artist Bandcamp recording verified."
+  },
+  "verified_brand_link": "https://trajectoiremusic.bandcamp.com/",
+  "verification_limit": "Player controls and iframe targets checked locally; third-party playback availability not confirmed on deployed origin."
+}
