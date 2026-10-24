@@ -3,13 +3,40 @@ window.interviewData = {
     {
       "question": "Par qui / quoi as-tu découvert la musique électronique ?",
       "paragraphs": [
-        "Je pense que ça s'est fait petit à petit et aussi inconsciemment, mes premiers souvenirs de musique électronique sont peut-être les moments où mes parents écoutaient du Steve Reich dans la voiture, je devais avoir autour de 5 ans. Bien que ça ne soit pas à proprement parler de la musique électronique, on peut facilement faire le lien. Et puis il y a l'OST d'Air Gear quand j'ai 8 ans, entre hip-hop, house et breaks. Ou encore durant mon adolescence, l'OST de Samurai Champloo, qui est hip-hop certes, mais qui me fait dériver sur le trip-hop, le downtempo, l'ambient et même un peu de jungle/atmosphric dnb, avec des artistes comme Moth Equals, Boards of Canada, squarepusher ou source direct, pour ne citer qu'eux. Aussi un peu plus tard il y a la découverte de la musique électronique américaine avec des artistes comme Larry Heard, Kerri Chandler ou évidemment DJ Rashad. J'ai tout de suite accroché car étant fan de producers comme J Dilla ou Fat Jon, je retrouvais des harmonies similaires mais avec des grooves différents."
+        "Je pense que ça s'est fait petit à petit et aussi inconsciemment, mes premiers souvenirs de musique électronique sont peut-être les moments où mes parents écoutaient du Steve Reich dans la voiture, je devais avoir autour de 5 ans. Bien que ça ne soit pas à proprement parler de la musique électronique, on peut facilement faire le lien.",
+        "Et puis il y a l'OST d'Air Gear quand j'ai 8 ans, entre hip-hop, house et breaks.",
+        "Ou encore durant mon adolescence, l'OST de Samurai Champoo, qui est hip-hop certes, mais qui me fait dériver sur le trip-hop, le downtempo, l'ambient et même un peu de jungle/atmosphric dnb, avec des artistes comme Moth Equals, Boards of Canada, squarepusher ou source direct, pour ne citer qu'eux.",
+        "Aussi un peu plus tard il y a la découverte de la musique électronique américaine avec des artistes comme Larry Heard, Kerri Chandler ou évidemment DJ Rashad. J'ai tout de suite accroché car étant fan de producers comme J Dilla ou Fat Jon, je retrouvais des harmonies similaires mais avec des grooves différents."
+      ],
+      "recordings": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
       ]
     },
     {
-      "question": "Des artistes qui t’inspirent aujourd’hui ? (A part Lone ;) )",
+      "question": "Des artistes qui t’inspirent aujourd’hui ?",
       "paragraphs": [
         "Oui bien sûr, de manière non exhaustive, j'ai beaucoup écouté cette année des artistes comme nextdimensional, Los Hermanos, Naked Flames, Jeremy Sylvester, namesbliss (surtout quand c'est scruz à la prod), Geode, Geotheory, Big Dope P, Monte Booker, Machinedrum, Rochelle Jordan ou encore TayoLoxs. Ce sont tous.tes des artistes qui m'inspirent car ils ont une sensibilité harmonique qui me parle vraiment, et aussi parce qu'ils ont une touche unique, tu peux écouter quelques secondes d'une de leurs tracks et dire « Ah je reconnais, c'est untel », je trouve ça super inspirant et important."
+      ],
+      "recordings": [
+        [
+          8,
+          9,
+          7,
+          6
+        ]
       ]
     },
     {
@@ -45,13 +72,13 @@ window.interviewData = {
       ]
     },
     {
-      "question": "Les synthés sur tes projets, et en particulier ‘Mind Shower’ (Tabula Rasa) ont une forte identité 90’s: pourquoi ces sonorités t'attirent? On peut pas à proprement parler de nostalgie puisque tu étais à peine né.",
+      "question": "Les synthés sur tes projets, et en particulier ‘Mind Shower’ (Tabula Rasa) ont une forte identité nineties: pourquoi ces sonorités t'attirent? On peut pas à proprement parler de nostalgie puisque tu étais à peine né.",
       "paragraphs": [
         "Enfait je crois que je suis juste obsédé par les pads hyper riches de ces années-là car il y a peu de sonorités qui mettent autant bien en avant une belle suite d’accords, ça sonne plein selon moi, tout simplement. Même en tant qu’auditeur, je trouve que ces sonorités, quand elles sont bien utilisées, comblent tous mes besoins."
       ]
     },
     {
-      "question": "Un studio tip? (On ne veut pas voler la secret sauce, ca peut être qqchose que tu as découvert et tu es content de partager, et rien si tu ne le souhaites pas",
+      "question": "Un studio tip?",
       "paragraphs": [
         "Franchement j’ai pas trop de tips haha, je suis juste dans un état d’esprit où j’essaie de me stimuler, de me surprendre moi-même et de m’amuser, en tout cas au début de la track, si j’en bave un peu pour la finir c’est pas grave, ça peut arriver. Aussi peut-être je dirai de ne pas trop prendre sa musique au sérieux, si tu es bloqué sur telle track ou quoi, passe à celle d'après, je considère qu’il n'y a pas de temps perdu, le temps que tu auras passé à ‘rater’ telle track t’aura aidé à savoir ce que tu veux faire. Donc d’oublier la productivité pour + de fun en gros."
       ]
@@ -61,13 +88,40 @@ window.interviewData = {
     {
       "question": "Who or what introduced you to electronic music?",
       "paragraphs": [
-        "I think it happened gradually and without me really realising it. My earliest memories of electronic music might be the times my parents would listen to Steve Reich in the car, when I was around 5 years old. Although it isn't strictly electronic music, it's easy to make the connection. Then there was the Air Gear soundtrack when I was 8, somewhere between hip-hop, house and breaks. Or, during my teens, the Samurai Champloo soundtrack, which is hip-hop, sure, but led me towards trip-hop, downtempo, ambient and even a bit of jungle/atmospheric dnb, with artists like Moth Equals, Boards of Canada, squarepusher and source direct, to name just a few. A little later, I discovered American electronic music through artists like Larry Heard, Kerri Chandler and, of course, DJ Rashad. I connected with it straight away because, as a fan of producers like J Dilla and Fat Jon, I was hearing similar harmonies but with different grooves."
+        "I think it happened gradually and without me really realising it. My earliest memories of electronic music might be the times my parents would listen to Steve Reich in the car, when I was around 5 years old. Although it isn't strictly electronic music, it's easy to make the connection.",
+        "Then there was the Air Gear soundtrack when I was 8, somewhere between hip-hop, house and breaks.",
+        "Or, during my teens, the Samurai Champoo soundtrack, which is hip-hop, sure, but led me towards trip-hop, downtempo, ambient and even a bit of jungle/atmospheric dnb, with artists like Moth Equals, Boards of Canada, squarepusher and source direct, to name just a few.",
+        "A little later, I discovered American electronic music through artists like Larry Heard, Kerri Chandler and, of course, DJ Rashad. I connected with it straight away because, as a fan of producers like J Dilla and Fat Jon, I was hearing similar harmonies but with different grooves."
+      ],
+      "recordings": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ]
       ]
     },
     {
-      "question": "Any artists inspiring you today? (Apart from Lone ;) )",
+      "question": "Any artists inspiring you today?",
       "paragraphs": [
         "Yes, of course. To give you a few examples, this year I've been listening a lot to artists like nextdimensional, Los Hermanos, Naked Flames, Jeremy Sylvester, namesbliss (especially when scruz is producing), Geode, Geotheory, Big Dope P, Monte Booker, Machinedrum, Rochelle Jordan and TayoLoxs. They all inspire me because their harmonic sensibility really speaks to me, and because they have a unique touch. You can listen to a few seconds of one of their tracks and say, ‘Ah, I recognise this, it's so-and-so.’ I find that really inspiring and important."
+      ],
+      "recordings": [
+        [
+          8,
+          9,
+          7,
+          6
+        ]
       ]
     },
     {
@@ -103,34 +157,16 @@ window.interviewData = {
       ]
     },
     {
-      "question": "The synths in your projects, and particularly ‘Mind Shower’ (Tabula Rasa), have a strong ’90s identity: why are you drawn to those sounds? We can't really call it nostalgia, since you were barely born then.",
+      "question": "The synths in your projects, and particularly ‘Mind Shower’ (Tabula Rasa), have a strong nineties identity: why are you drawn to those sounds? We can't really call it nostalgia, since you were barely born then.",
       "paragraphs": [
         "Actually, I think I'm just obsessed with the really rich pads from those years, because there are few sounds that bring out a beautiful chord progression quite so well. They simply sound full to me. Even as a listener, I find that those sounds, when used well, give me everything I need."
       ]
     },
     {
-      "question": "A studio tip? (We don't want to steal the secret sauce; it could be something you've discovered and are happy to share, or nothing if you'd rather not",
+      "question": "A studio tip?",
       "paragraphs": [
         "Honestly, I don't have that many tips haha. I'm just in a mindset where I'm trying to stimulate myself, surprise myself and have fun, at least at the beginning of a track. If I struggle a bit to finish it, that's fine, it happens. Maybe I'd also say not to take your music too seriously. If you're stuck on a track or whatever, move on to the next one. I don't think any time is wasted: the time you spent ‘failing’ at one track will have helped you figure out what you want to do. So basically, forget productivity and have more fun."
       ]
     }
-  ],
-  "quotes": {
-    "0": {
-      "fr": "des harmonies similaires mais avec des grooves différents",
-      "en": "similar harmonies but with different grooves"
-    },
-    "3": {
-      "fr": "Je suis constamment en quête d’apporter ma couleur",
-      "en": "I'm constantly trying to bring my own colour to things"
-    },
-    "5": {
-      "fr": "Je suis avant tout un auditeur",
-      "en": "I'm a listener first and foremost"
-    },
-    "8": {
-      "fr": "Donc d’oublier la productivité pour + de fun en gros.",
-      "en": "So basically, forget productivity and have more fun."
-    }
-  }
+  ]
 };

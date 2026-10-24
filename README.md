@@ -17,7 +17,7 @@ Use an HTTP server when checking players: YouTube requires a valid referring ori
 ## Edit
 
 - `index.html`: page structure and default French content, also readable without JavaScript.
-- `interview-data.js`: the nine French questions and answers, their English translations, and pull quotes. French was extracted verbatim from the supplied ODT.
+- `interview-data.js`: the nine French questions and answers, their English translations, with paragraph-level recording placements. French was extracted from the supplied ODT and includes the requested editorial corrections.
 - `app.js`: supplied intro captions, translated interface labels, language selection and embedded players.
 - `tracks.js`: recording links and extracted artwork references. Nine YouTube recordings and one official Bandcamp fallback for Monte Booker's `western cape`.
 - `styles.css`: the approved Liner notes layout with locally hosted Geist.
@@ -31,4 +31,4 @@ For `https://trajectoirelabel.github.io/`, the repository should be named `traje
 
 Place the contents of this folder at the repository root. In repository Settings → Pages, select deployment from the main branch and the root folder. The included `.nojekyll` enables direct static serving.
 
-The site has not been pushed or published. Player selection and iframe URLs are checked locally; live playback still depends on the upload's embedding permissions and regional availability.
+Player controls and iframe URLs are checked locally; live playback still depends on the upload's embedding permissions and regional availability.
